@@ -41,7 +41,7 @@
 </dependency>
 <profiles>
 <profile>
-<id>st</id> 
+<id>smoke</id> 
 
 <build>
 		<plugins>
@@ -60,7 +60,7 @@
 	</build>
 </profile>
 <profile>
-<id>rt</id>
+<id>regression</id>
  <build>  
  <plugins>
 			<plugin>
